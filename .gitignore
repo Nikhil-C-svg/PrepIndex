@@ -1,0 +1,6 @@
+/db.exe
+/prepindex.sqlite3*
+/prep-assets/
+/httplib.h
+/THIRD_PARTY_CPP_HTTPLIB.txt
+/.build/
