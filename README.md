@@ -1,6 +1,8 @@
 # PrepIndex
 
-PrepIndex is a local study workspace for PDF notes. Organize notes by subject, ask for a cited answer, write an exam-style response, or practice an interview question. Each citation opens the original PDF page.
+Local-first PDF study assistant with page-cited answers, exam prep, and interview practice. Built with C++, SQLite, and Ollama.
+
+Organize notes by subject and open any citation to see the original PDF page.
 
 ## Run on Windows
 
